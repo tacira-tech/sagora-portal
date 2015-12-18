@@ -1,2 +1,2 @@
-# sgora-portal
+# sagora-portal
 Smart Agora Wordpress Portal
